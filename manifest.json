@@ -1,0 +1,247 @@
+{
+  "generated_for": "instagram",
+  "width": 1080,
+  "height": 1350,
+  "decks": [
+    {
+      "id": "IG-2026-07-06-ETERNALMAC-DEVSERVER",
+      "slug": "eternalmac-devserver",
+      "project": "EternalMac",
+      "scheduled_for": "2026-07-06T10:10:00-07:00",
+      "caption": "I missed the devserver workflow for personal projects.\n\nSo I built eternalMac around the Mac laptop + Mac Mini setup I wanted:\n\n- persistent shell sessions\n- synced files\n- private reachability\n- local hardware\n- less laptop state\n\nAnyone else using a Mini this way?",
+      "slides": [
+        {
+          "path": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-01.png",
+          "svg_source": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-01.svg",
+          "alt": "EternalMac Instagram carousel slide 1: I turned my Mac Mini into a personal devserver.",
+          "staged_filename": "eternalmac-devserver-slide-01.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-02.png",
+          "svg_source": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-02.svg",
+          "alt": "EternalMac Instagram carousel slide 2: Close the laptop. The shell keeps running.",
+          "staged_filename": "eternalmac-devserver-slide-02.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-03.png",
+          "svg_source": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-03.svg",
+          "alt": "EternalMac Instagram carousel slide 3: Reconnect from another network.",
+          "staged_filename": "eternalmac-devserver-slide-03.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-04.png",
+          "svg_source": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-04.svg",
+          "alt": "EternalMac Instagram carousel slide 4: Files and selected agent config stay in sync.",
+          "staged_filename": "eternalmac-devserver-slide-04.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-05.png",
+          "svg_source": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-05.svg",
+          "alt": "EternalMac Instagram carousel slide 5: This should be normal solo-builder infrastructure.",
+          "staged_filename": "eternalmac-devserver-slide-05.png"
+        }
+      ]
+    },
+    {
+      "id": "IG-2026-07-08-OMNIUS-LOOPS",
+      "slug": "omnius-local-loops",
+      "project": "Omnius",
+      "scheduled_for": "2026-07-08T10:10:00-07:00",
+      "caption": "I kept seeing \"loops\" described like a concept.\n\nI wanted the control pieces packaged into something I could actually run on local repos overnight.\n\nOmnius is my attempt at that control layer.\n\nWhat part of agent loops still feels too hand-rolled to you?",
+      "slides": [
+        {
+          "path": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-01.png",
+          "svg_source": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-01.svg",
+          "alt": "Omnius Instagram carousel slide 1: Everyone talks about AI agent loops.",
+          "staged_filename": "omnius-local-loops-slide-01.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-02.png",
+          "svg_source": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-02.svg",
+          "alt": "Omnius Instagram carousel slide 2: A useful coding loop is not one prompt.",
+          "staged_filename": "omnius-local-loops-slide-02.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-03.png",
+          "svg_source": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-03.svg",
+          "alt": "Omnius Instagram carousel slide 3: Queue. Preflight. Isolated worker.",
+          "staged_filename": "omnius-local-loops-slide-03.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-04.png",
+          "svg_source": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-04.svg",
+          "alt": "Omnius Instagram carousel slide 4: That is what I built Omnius for.",
+          "staged_filename": "omnius-local-loops-slide-04.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-05.png",
+          "svg_source": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-05.svg",
+          "alt": "Omnius Instagram carousel slide 5: Local-first agent infrastructure is getting real.",
+          "staged_filename": "omnius-local-loops-slide-05.png"
+        }
+      ]
+    },
+    {
+      "id": "IG-2026-07-10-ETERNALMAC-DOTSYNC",
+      "slug": "eternalmac-dotsync",
+      "project": "EternalMac",
+      "scheduled_for": "2026-07-10T10:10:00-07:00",
+      "caption": "The more I use AI coding tools, the more I care about context continuity.\n\nShell access is easy.\n\nKeeping the right project + agent state across machines is the part that gets annoying.\n\nThat is why I added Dotsync to eternalMac.",
+      "slides": [
+        {
+          "path": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-01.png",
+          "svg_source": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-01.svg",
+          "alt": "EternalMac Instagram carousel slide 1: The annoying part is not SSH. It is context.",
+          "staged_filename": "eternalmac-dotsync-slide-01.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-02.png",
+          "svg_source": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-02.svg",
+          "alt": "EternalMac Instagram carousel slide 2: Your agent config lives on one machine.",
+          "staged_filename": "eternalmac-dotsync-slide-02.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-03.png",
+          "svg_source": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-03.svg",
+          "alt": "EternalMac Instagram carousel slide 3: EternalMac now supports Dotsync.",
+          "staged_filename": "eternalmac-dotsync-slide-03.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-04.png",
+          "svg_source": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-04.svg",
+          "alt": "EternalMac Instagram carousel slide 4: ~/.claude and ~/.codex can follow the session.",
+          "staged_filename": "eternalmac-dotsync-slide-04.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-05.png",
+          "svg_source": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-05.svg",
+          "alt": "EternalMac Instagram carousel slide 5: Same project. Same agent context. Different device.",
+          "staged_filename": "eternalmac-dotsync-slide-05.png"
+        }
+      ]
+    },
+    {
+      "id": "IG-2026-07-13-AGENTAIRLIFT",
+      "slug": "agentairlift-portable-sessions",
+      "project": "AgentAirlift",
+      "scheduled_for": "2026-07-13T10:10:00-07:00",
+      "caption": "I built AgentAirlift because serious coding sessions should have an exit path.\n\nIt does not preserve hidden model state.\n\nIt does preserve the observable session trail: messages, tool calls, repo snapshot, warnings, and handoff docs.\n\nThat is enough to make switching agents much less chaotic.",
+      "slides": [
+        {
+          "path": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-01.png",
+          "svg_source": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-01.svg",
+          "alt": "AgentAirlift Instagram carousel slide 1: AI coding sessions should not be trapped in one tool.",
+          "staged_filename": "agentairlift-portable-sessions-slide-01.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-02.png",
+          "svg_source": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-02.svg",
+          "alt": "AgentAirlift Instagram carousel slide 2: I want an explicit handoff, not a prayer.",
+          "staged_filename": "agentairlift-portable-sessions-slide-02.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-03.png",
+          "svg_source": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-03.svg",
+          "alt": "AgentAirlift Instagram carousel slide 3: AgentAirlift turns a session into a transfer bundle.",
+          "staged_filename": "agentairlift-portable-sessions-slide-03.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-04.png",
+          "svg_source": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-04.svg",
+          "alt": "AgentAirlift Instagram carousel slide 4: It does not claim hidden model-state magic.",
+          "staged_filename": "agentairlift-portable-sessions-slide-04.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-05.png",
+          "svg_source": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-05.svg",
+          "alt": "AgentAirlift Instagram carousel slide 5: Portable sessions are basic agent infrastructure.",
+          "staged_filename": "agentairlift-portable-sessions-slide-05.png"
+        }
+      ]
+    },
+    {
+      "id": "IG-2026-07-15-QUOTASENTRY",
+      "slug": "quotasentry-quota-wall",
+      "project": "QuotaSentry",
+      "scheduled_for": "2026-07-15T10:10:00-07:00",
+      "caption": "The first time a long agent run dies at the quota wall, it feels like a product problem.\n\nAfter it happens a few times, it is clearly an ops problem.\n\nQuotaSentry is a small local guardrail for that.\n\nWhat is the most annoying failure mode in your agent workflow?",
+      "slides": [
+        {
+          "path": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-01.png",
+          "svg_source": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-01.svg",
+          "alt": "QuotaSentry Instagram carousel slide 1: The quota wall is an infrastructure problem.",
+          "staged_filename": "quotasentry-quota-wall-slide-01.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-02.png",
+          "svg_source": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-02.svg",
+          "alt": "QuotaSentry Instagram carousel slide 2: The run should not die because the reset window is close.",
+          "staged_filename": "quotasentry-quota-wall-slide-02.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-03.png",
+          "svg_source": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-03.svg",
+          "alt": "QuotaSentry Instagram carousel slide 3: Detect. Wait. Resume.",
+          "staged_filename": "quotasentry-quota-wall-slide-03.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-04.png",
+          "svg_source": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-04.svg",
+          "alt": "QuotaSentry Instagram carousel slide 4: That is why I built QuotaSentry.",
+          "staged_filename": "quotasentry-quota-wall-slide-04.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-05.png",
+          "svg_source": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-05.svg",
+          "alt": "QuotaSentry Instagram carousel slide 5: AI coding needs ops guardrails.",
+          "staged_filename": "quotasentry-quota-wall-slide-05.png"
+        }
+      ]
+    },
+    {
+      "id": "IG-2026-07-17-INFRA-STACK",
+      "slug": "local-first-ai-dev-stack",
+      "project": "Local-first AI dev infrastructure",
+      "scheduled_for": "2026-07-17T10:10:00-07:00",
+      "caption": "I do not think the next jump in AI coding comes only from better prompts.\n\nThe missing layer is operating context:\n\nwhere the session runs, how it survives, how it syncs, how it pauses, how it hands off, and how a human reviews it.\n\nThat is the thread connecting the tools I have been building.",
+      "slides": [
+        {
+          "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-01.png",
+          "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-01.svg",
+          "alt": "Local-first AI dev infrastructure Instagram carousel slide 1: Solo dev infrastructure is changing fast.",
+          "staged_filename": "local-first-ai-dev-stack-slide-01.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-02.png",
+          "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-02.svg",
+          "alt": "Local-first AI dev infrastructure Instagram carousel slide 2: Code generation is only one layer.",
+          "staged_filename": "local-first-ai-dev-stack-slide-02.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-03.png",
+          "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-03.svg",
+          "alt": "Local-first AI dev infrastructure Instagram carousel slide 3: Machines. Sessions. Sync. Quota.",
+          "staged_filename": "local-first-ai-dev-stack-slide-03.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-04.png",
+          "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-04.svg",
+          "alt": "Local-first AI dev infrastructure Instagram carousel slide 4: EternalMac: local devserver. Omnius: local loops.",
+          "staged_filename": "local-first-ai-dev-stack-slide-04.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-05.png",
+          "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-05.svg",
+          "alt": "Local-first AI dev infrastructure Instagram carousel slide 5: AgentAirlift: portable sessions. QuotaSentry: guardrails.",
+          "staged_filename": "local-first-ai-dev-stack-slide-05.png"
+        },
+        {
+          "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-06.png",
+          "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-06.svg",
+          "alt": "Local-first AI dev infrastructure Instagram carousel slide 6: The future is better operating context.",
+          "staged_filename": "local-first-ai-dev-stack-slide-06.png"
+        }
+      ]
+    }
+  ]
+}

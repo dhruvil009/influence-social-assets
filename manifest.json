@@ -14,31 +14,36 @@
           "path": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-01.png",
           "svg_source": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-01.svg",
           "alt": "EternalMac Instagram carousel slide 1: I turned my Mac Mini into a personal devserver.",
-          "staged_filename": "eternalmac-devserver-slide-01.png"
+          "staged_filename": "eternalmac-devserver-slide-01.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/eternalmac-devserver-slide-01.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-02.png",
           "svg_source": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-02.svg",
           "alt": "EternalMac Instagram carousel slide 2: Close the laptop. The shell keeps running.",
-          "staged_filename": "eternalmac-devserver-slide-02.png"
+          "staged_filename": "eternalmac-devserver-slide-02.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/eternalmac-devserver-slide-02.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-03.png",
           "svg_source": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-03.svg",
           "alt": "EternalMac Instagram carousel slide 3: Reconnect from another network.",
-          "staged_filename": "eternalmac-devserver-slide-03.png"
+          "staged_filename": "eternalmac-devserver-slide-03.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/eternalmac-devserver-slide-03.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-04.png",
           "svg_source": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-04.svg",
           "alt": "EternalMac Instagram carousel slide 4: Files and selected agent config stay in sync.",
-          "staged_filename": "eternalmac-devserver-slide-04.png"
+          "staged_filename": "eternalmac-devserver-slide-04.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/eternalmac-devserver-slide-04.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-05.png",
           "svg_source": "assets/instagram/2026-07-pilot/eternalmac-devserver/slide-05.svg",
           "alt": "EternalMac Instagram carousel slide 5: This should be normal solo-builder infrastructure.",
-          "staged_filename": "eternalmac-devserver-slide-05.png"
+          "staged_filename": "eternalmac-devserver-slide-05.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/eternalmac-devserver-slide-05.png"
         }
       ]
     },
@@ -53,31 +58,36 @@
           "path": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-01.png",
           "svg_source": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-01.svg",
           "alt": "Omnius Instagram carousel slide 1: Everyone talks about AI agent loops.",
-          "staged_filename": "omnius-local-loops-slide-01.png"
+          "staged_filename": "omnius-local-loops-slide-01.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/omnius-local-loops-slide-01.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-02.png",
           "svg_source": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-02.svg",
           "alt": "Omnius Instagram carousel slide 2: A useful coding loop is not one prompt.",
-          "staged_filename": "omnius-local-loops-slide-02.png"
+          "staged_filename": "omnius-local-loops-slide-02.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/omnius-local-loops-slide-02.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-03.png",
           "svg_source": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-03.svg",
           "alt": "Omnius Instagram carousel slide 3: Queue. Preflight. Isolated worker.",
-          "staged_filename": "omnius-local-loops-slide-03.png"
+          "staged_filename": "omnius-local-loops-slide-03.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/omnius-local-loops-slide-03.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-04.png",
           "svg_source": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-04.svg",
           "alt": "Omnius Instagram carousel slide 4: That is what I built Omnius for.",
-          "staged_filename": "omnius-local-loops-slide-04.png"
+          "staged_filename": "omnius-local-loops-slide-04.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/omnius-local-loops-slide-04.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-05.png",
           "svg_source": "assets/instagram/2026-07-pilot/omnius-local-loops/slide-05.svg",
           "alt": "Omnius Instagram carousel slide 5: Local-first agent infrastructure is getting real.",
-          "staged_filename": "omnius-local-loops-slide-05.png"
+          "staged_filename": "omnius-local-loops-slide-05.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/omnius-local-loops-slide-05.png"
         }
       ]
     },
@@ -92,31 +102,36 @@
           "path": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-01.png",
           "svg_source": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-01.svg",
           "alt": "EternalMac Instagram carousel slide 1: The annoying part is not SSH. It is context.",
-          "staged_filename": "eternalmac-dotsync-slide-01.png"
+          "staged_filename": "eternalmac-dotsync-slide-01.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/eternalmac-dotsync-slide-01.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-02.png",
           "svg_source": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-02.svg",
           "alt": "EternalMac Instagram carousel slide 2: Your agent config lives on one machine.",
-          "staged_filename": "eternalmac-dotsync-slide-02.png"
+          "staged_filename": "eternalmac-dotsync-slide-02.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/eternalmac-dotsync-slide-02.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-03.png",
           "svg_source": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-03.svg",
           "alt": "EternalMac Instagram carousel slide 3: EternalMac now supports Dotsync.",
-          "staged_filename": "eternalmac-dotsync-slide-03.png"
+          "staged_filename": "eternalmac-dotsync-slide-03.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/eternalmac-dotsync-slide-03.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-04.png",
           "svg_source": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-04.svg",
           "alt": "EternalMac Instagram carousel slide 4: ~/.claude and ~/.codex can follow the session.",
-          "staged_filename": "eternalmac-dotsync-slide-04.png"
+          "staged_filename": "eternalmac-dotsync-slide-04.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/eternalmac-dotsync-slide-04.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-05.png",
           "svg_source": "assets/instagram/2026-07-pilot/eternalmac-dotsync/slide-05.svg",
           "alt": "EternalMac Instagram carousel slide 5: Same project. Same agent context. Different device.",
-          "staged_filename": "eternalmac-dotsync-slide-05.png"
+          "staged_filename": "eternalmac-dotsync-slide-05.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/eternalmac-dotsync-slide-05.png"
         }
       ]
     },
@@ -131,31 +146,36 @@
           "path": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-01.png",
           "svg_source": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-01.svg",
           "alt": "AgentAirlift Instagram carousel slide 1: AI coding sessions should not be trapped in one tool.",
-          "staged_filename": "agentairlift-portable-sessions-slide-01.png"
+          "staged_filename": "agentairlift-portable-sessions-slide-01.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/agentairlift-portable-sessions-slide-01.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-02.png",
           "svg_source": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-02.svg",
           "alt": "AgentAirlift Instagram carousel slide 2: I want an explicit handoff, not a prayer.",
-          "staged_filename": "agentairlift-portable-sessions-slide-02.png"
+          "staged_filename": "agentairlift-portable-sessions-slide-02.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/agentairlift-portable-sessions-slide-02.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-03.png",
           "svg_source": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-03.svg",
           "alt": "AgentAirlift Instagram carousel slide 3: AgentAirlift turns a session into a transfer bundle.",
-          "staged_filename": "agentairlift-portable-sessions-slide-03.png"
+          "staged_filename": "agentairlift-portable-sessions-slide-03.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/agentairlift-portable-sessions-slide-03.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-04.png",
           "svg_source": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-04.svg",
           "alt": "AgentAirlift Instagram carousel slide 4: It does not claim hidden model-state magic.",
-          "staged_filename": "agentairlift-portable-sessions-slide-04.png"
+          "staged_filename": "agentairlift-portable-sessions-slide-04.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/agentairlift-portable-sessions-slide-04.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-05.png",
           "svg_source": "assets/instagram/2026-07-pilot/agentairlift-portable-sessions/slide-05.svg",
           "alt": "AgentAirlift Instagram carousel slide 5: Portable sessions are basic agent infrastructure.",
-          "staged_filename": "agentairlift-portable-sessions-slide-05.png"
+          "staged_filename": "agentairlift-portable-sessions-slide-05.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/agentairlift-portable-sessions-slide-05.png"
         }
       ]
     },
@@ -170,31 +190,36 @@
           "path": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-01.png",
           "svg_source": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-01.svg",
           "alt": "QuotaSentry Instagram carousel slide 1: The quota wall is an infrastructure problem.",
-          "staged_filename": "quotasentry-quota-wall-slide-01.png"
+          "staged_filename": "quotasentry-quota-wall-slide-01.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/quotasentry-quota-wall-slide-01.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-02.png",
           "svg_source": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-02.svg",
           "alt": "QuotaSentry Instagram carousel slide 2: The run should not die because the reset window is close.",
-          "staged_filename": "quotasentry-quota-wall-slide-02.png"
+          "staged_filename": "quotasentry-quota-wall-slide-02.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/quotasentry-quota-wall-slide-02.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-03.png",
           "svg_source": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-03.svg",
           "alt": "QuotaSentry Instagram carousel slide 3: Detect. Wait. Resume.",
-          "staged_filename": "quotasentry-quota-wall-slide-03.png"
+          "staged_filename": "quotasentry-quota-wall-slide-03.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/quotasentry-quota-wall-slide-03.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-04.png",
           "svg_source": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-04.svg",
           "alt": "QuotaSentry Instagram carousel slide 4: That is why I built QuotaSentry.",
-          "staged_filename": "quotasentry-quota-wall-slide-04.png"
+          "staged_filename": "quotasentry-quota-wall-slide-04.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/quotasentry-quota-wall-slide-04.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-05.png",
           "svg_source": "assets/instagram/2026-07-pilot/quotasentry-quota-wall/slide-05.svg",
           "alt": "QuotaSentry Instagram carousel slide 5: AI coding needs ops guardrails.",
-          "staged_filename": "quotasentry-quota-wall-slide-05.png"
+          "staged_filename": "quotasentry-quota-wall-slide-05.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/quotasentry-quota-wall-slide-05.png"
         }
       ]
     },
@@ -209,37 +234,43 @@
           "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-01.png",
           "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-01.svg",
           "alt": "Local-first AI dev infrastructure Instagram carousel slide 1: Solo dev infrastructure is changing fast.",
-          "staged_filename": "local-first-ai-dev-stack-slide-01.png"
+          "staged_filename": "local-first-ai-dev-stack-slide-01.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/local-first-ai-dev-stack-slide-01.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-02.png",
           "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-02.svg",
           "alt": "Local-first AI dev infrastructure Instagram carousel slide 2: Code generation is only one layer.",
-          "staged_filename": "local-first-ai-dev-stack-slide-02.png"
+          "staged_filename": "local-first-ai-dev-stack-slide-02.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/local-first-ai-dev-stack-slide-02.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-03.png",
           "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-03.svg",
           "alt": "Local-first AI dev infrastructure Instagram carousel slide 3: Machines. Sessions. Sync. Quota.",
-          "staged_filename": "local-first-ai-dev-stack-slide-03.png"
+          "staged_filename": "local-first-ai-dev-stack-slide-03.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/local-first-ai-dev-stack-slide-03.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-04.png",
           "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-04.svg",
           "alt": "Local-first AI dev infrastructure Instagram carousel slide 4: EternalMac: local devserver. Omnius: local loops.",
-          "staged_filename": "local-first-ai-dev-stack-slide-04.png"
+          "staged_filename": "local-first-ai-dev-stack-slide-04.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/local-first-ai-dev-stack-slide-04.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-05.png",
           "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-05.svg",
           "alt": "Local-first AI dev infrastructure Instagram carousel slide 5: AgentAirlift: portable sessions. QuotaSentry: guardrails.",
-          "staged_filename": "local-first-ai-dev-stack-slide-05.png"
+          "staged_filename": "local-first-ai-dev-stack-slide-05.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/local-first-ai-dev-stack-slide-05.png"
         },
         {
           "path": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-06.png",
           "svg_source": "assets/instagram/2026-07-pilot/local-first-ai-dev-stack/slide-06.svg",
           "alt": "Local-first AI dev infrastructure Instagram carousel slide 6: The future is better operating context.",
-          "staged_filename": "local-first-ai-dev-stack-slide-06.png"
+          "staged_filename": "local-first-ai-dev-stack-slide-06.png",
+          "public_url": "https://raw.githubusercontent.com/dhruvil009/influence-social-assets/main/local-first-ai-dev-stack-slide-06.png"
         }
       ]
     }
